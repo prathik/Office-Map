@@ -1,1 +1,6 @@
 *.pyc
+.idea/
+
+*.xml
+
+.idea/workspace.xml
